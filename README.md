@@ -20,13 +20,13 @@
 
 ### Phase 1
 
-- In this phase, the data is extracted from the file and converted into a readable format
+- In this phase, the data is extracted from the file and converted into a readable format.
 
 - The link to the data file with option 1 is [backers_data1](https://github.com/manasidek/Crowdfunding-ETL/blob/main/Data/backers_data1.csv)
 
 - The link to the data file with option 2 is [backers_data2](https://github.com/manasidek/Crowdfunding-ETL/blob/main/Data/backers_data2.csv)
 
-- The extracted data is:
+- The extracted data is: 
 
 ![backer_data](https://github.com/manasidek/Crowdfunding-ETL/blob/main/Images/backer_data.png)
 
@@ -34,7 +34,7 @@
 
 - In this phase, the data from phase 1 is transformed to make it more structured for analysis. The link to the data file is [backers](https://github.com/manasidek/Crowdfunding-ETL/blob/main/Data/backers.csv)
 
-- The transformed data is 
+- The transformed data is:
 
 ![final_backers](https://github.com/manasidek/Crowdfunding-ETL/blob/main/Images/final_backers.png)
 

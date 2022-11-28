@@ -26,7 +26,7 @@
 
 - The link to the data file with option 2 is [backers_data2](https://github.com/manasidek/Crowdfunding-ETL/blob/main/Data/backers_data2.csv)
 
-- The extracted data is 
+- The extracted data is:
 
 ![backer_data](https://github.com/manasidek/Crowdfunding-ETL/blob/main/Images/backer_data.png)
 

@@ -22,9 +22,9 @@
 
 - In this phase, the data is extracted from the file and converted into a readable format
 
-- The link to the dat file with option 1 is [backers_data1](https://github.com/manasidek/Crowdfunding-ETL/blob/main/Data/backers_data1.csv)
+- The link to the data file with option 1 is [backers_data1](https://github.com/manasidek/Crowdfunding-ETL/blob/main/Data/backers_data1.csv)
 
-- The link to the dat file with option 2 is [backer_data2](https://github.com/manasidek/Crowdfunding-ETL/blob/main/Data/backers_data2.csv)
+- The link to the data file with option 2 is [backers_data2](https://github.com/manasidek/Crowdfunding-ETL/blob/main/Data/backers_data2.csv)
 
 - The extracted data is 
 
@@ -67,4 +67,4 @@
 
 - The created table is shown below
 
-![email_backers_remaining_goal_amount](https://github.com/manasidek/Crowdfunding-ETL/blob/main/Images/email_contacts_remaining_goal_amount.png)
+![email_backers_remaining_goal_amount](https://github.com/manasidek/Crowdfunding-ETL/blob/main/Images/email_backers_remaining_goal_amount.png)
